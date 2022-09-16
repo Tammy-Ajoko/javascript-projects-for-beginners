@@ -17,7 +17,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://willowy-stardust-8c1b73.netlify.app/)
+- Live Site URL: [Live URL](https://willowy-stardust-8c1b73.netlify.app/)
 
 ### Built with
 
